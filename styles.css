@@ -70,6 +70,15 @@ h2 {
 	padding: 10px 0 0 10px;
 }
 
+.formrow {
+	margin: 10px 0 0 0;
+	padding: 0 10px 0 10px;
+}
+
+input {
+	font-size: 16px;
+}
+
 .sr-only {
 	position: absolute;
 	width: 1px;
