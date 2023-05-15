@@ -66,6 +66,10 @@ h2 {
 	padding-top: 60px;
 }
 
+.info {
+	padding: 10px 0 0 10px;
+}
+
 .sr-only {
 	position: absolute;
 	width: 1px;
