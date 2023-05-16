@@ -147,3 +147,8 @@ nav > ul > li:hover {
 	border: none;
 	padding-bottom: 0;
 }
+
+.answers-list {
+	padding: 0;
+	list-style: none;
+}
