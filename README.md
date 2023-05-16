@@ -2,7 +2,7 @@
 
 The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a quiz with questions on HTML and CSS with inputs of type text, date, radio, and dropdown menu.
 
-![quiz accessibility app - Tanimara Elias Santos](assets/images/quiz-accessibility-showcase.gif)
+![quiz accessibility app - Tanimara Elias Santos](quiz-accessibility-showcase.gif)
 
  ## Features
 
