@@ -127,3 +127,11 @@ nav > ul > li:hover {
 	min-width: 55px;
 	text-align: left;
 }
+
+.question-block {
+	text-align: left;
+	display:block;
+	width: 100%;
+	padding-top: 5px;
+	margin-top: 20px;
+}
