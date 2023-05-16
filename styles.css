@@ -162,3 +162,9 @@ button {
 	background: #d0d0d5;
 	border: 3px solid #3b3b4f;
 }
+
+footer {
+	background: #2a2a40;
+	display: flex;
+	justify-content: center;
+}
